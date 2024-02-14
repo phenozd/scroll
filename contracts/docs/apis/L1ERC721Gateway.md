@@ -4,9 +4,9 @@
 
 > L1ERC721Gateway
 
-The `L1ERC721Gateway` is used to deposit ERC721 compatible NFT on layer 1 and finalize withdraw the NFTs from layer 2.
+The `L1ERC721Gateway` serves as a gateway for depositing ERC721 compatible NFTs onto Layer 1 and completing withdrawals from Layer 2.
 
-*The deposited NFTs are held in this gateway. On finalizing withdraw, the corresponding NFT will be transfer to the recipient directly. This will be changed if we have more specific scenarios.*
+*NFTs deposited into this gateway are securely stored. Upon finalizing a withdrawal, the associated NFT is transferred directly to the recipient. It's important to note that adjustments may be made to this process to accommodate specific scenarios.*
 
 ## Methods
 
